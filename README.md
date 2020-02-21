@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/logo.png" width=450 height=150/></p>
+<p align="center"><img src="assets//log/casdu.jpg" width=150 height=150/></p>
 <p align="center"><a href=http://bbs.casdu.cn"><b></b></a></p>
 
 
