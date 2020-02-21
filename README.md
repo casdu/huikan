@@ -3,7 +3,7 @@
 
 
 </p>
-<p align="center">"深入社会，融于自然，挑战极限，超越自我"</p>
+<p align="center"><a href=http://bbs.casdu.cn/>"深入社会，融于自然，挑战极限，超越自我"</p>
 
 ---
 
