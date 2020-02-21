@@ -1,3 +1,14 @@
+<p align="center"><img src="assets/logo.png" width=450 height=150/></p>
+<p align="center"><a href=http://bbs.casdu.cn"><b></b></a></p>
+
+
+</p>
+<p align="center">"深入社会，融于自然，挑战极限，超越自我"</p>
+
+---
+
+
+
 这个[仓库](http://www.songjiayang.com/posts/win32-xiao-bai-yong-hu-github-mai-keng-zhi-nan)的初衷是以[纯文本的格式](https://baike.baidu.com/item/%E7%BA%AF%E6%96%87%E6%9C%AC%E6%A0%BC%E5%BC%8F) ([Markdown](https://en.wikipedia.org/wiki/Markdown)) 来收藏并拓展山东大学自行车协会过往会刊。
 
 ## 相关介绍
