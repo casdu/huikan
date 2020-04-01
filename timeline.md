@@ -53,3 +53,5 @@ gantt
        Add gantt diagram to demo page      :20h
        Add another diagram to demo page    :48h
 ```
+
+ref: http://bbs.casdu.cn/forum.php?mod=viewthread&tid=10885&extra=page%3D1
