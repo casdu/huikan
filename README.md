@@ -9,7 +9,7 @@
 
 
 
-这个[仓库](http://www.songjiayang.com/posts/win32-xiao-bai-yong-hu-github-mai-keng-zhi-nan)的初衷是以[纯文本的格式](https://baike.baidu.com/item/%E7%BA%AF%E6%96%87%E6%9C%AC%E6%A0%BC%E5%BC%8F) ([Markdown](https://en.wikipedia.org/wiki/Markdown)) 来收藏并拓展山东大学自行车协会过往会刊。
+这个仓库的初衷是以纯文本的格式，收藏并拓展山东大学自行车协会过往会刊。
 
 ## 相关介绍
 
